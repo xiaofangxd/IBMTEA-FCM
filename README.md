@@ -1,5 +1,5 @@
 # IBMTEA-FCM
-We provided matlab implementations for Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm.
+We provided main matlab implementations for Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm.
 
 ## Getting started
 
